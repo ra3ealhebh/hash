@@ -1,4 +1,4 @@
-[عدل]from hashlib import *
+from hashlib import *
 
 def hash2(): print(""" 
 \033[1;31m====================| 
